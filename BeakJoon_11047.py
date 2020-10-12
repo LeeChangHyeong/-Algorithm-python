@@ -1,6 +1,6 @@
 #백준 11047번 문제
 #https://www.acmicpc.net/problem/11047
-
+#2020-10-12 23:06
 a,money = map(int,input().split())
 value = [0 for _ in range(a)]
 for i in range(a):
